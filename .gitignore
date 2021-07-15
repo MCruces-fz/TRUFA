@@ -3,6 +3,7 @@
 .idea/
 *.root
 *.txt
+tmydict.cc
 # ======================
 
 # Prerequisites
