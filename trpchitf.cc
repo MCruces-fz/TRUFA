@@ -67,7 +67,7 @@ Int_t TRpcHitF::execute() {
     Float_t doy  = gEvent->getDOY();
 
     Float_t sortt[360] = {0.};
-    Int_t sorti[360]   = {0.};
+    Int_t sorti[360]   = {0};
 
 
     for(Int_t i=0;i<nraw;i++) {
